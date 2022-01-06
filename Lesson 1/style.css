@@ -1,0 +1,31 @@
+.Container {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.What h3 {
+    font-size: 30px;
+    text-align: center;
+}
+.What p{
+    font-size: 20px;
+}
+
+.where {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.Red {
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.id {
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.name {
+    font-size: 20px;
+    margin-top: 50px;
+}
